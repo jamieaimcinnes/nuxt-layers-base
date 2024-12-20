@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@nuxtjs/supabase": "^1.4.5",
+    "axios": "^1.7.9",
+    "snakecase-keys": "^8.0.1",
+    "tus-js-client": "^1.6.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-pro": "^6.2.0",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/pro-light-svg-icons": "^6.4.2",
+    "@fortawesome/pro-regular-svg-icons": "6.5.1",
+    "@fortawesome/pro-solid-svg-icons": "6.5.1",
+    "@fortawesome/pro-thin-svg-icons": "^6.4.2",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "supabase": "^2.1.1"
+  }
+}
