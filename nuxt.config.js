@@ -15,9 +15,7 @@ export default defineNuxtConfig({
 
   css: ['@fortawesome/fontawesome-svg-core/styles.css'],
 
-  components: [{ path: '~/components', pathPrefix: false }],
-
-  modules: ['@nuxtjs/supabase'],
+  modules: ['@nuxtjs/supabase', '@vue-macros/nuxt'],
 
   supabase: {
     redirect: false

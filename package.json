@@ -16,6 +16,7 @@
     "@fortawesome/pro-solid-svg-icons": "6.5.1",
     "@fortawesome/pro-thin-svg-icons": "^6.4.2",
     "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@vue-macros/nuxt": "^1.12.11",
     "supabase": "^2.1.1"
   }
 }
