@@ -1,3 +1,3 @@
 export const useTest = () => {
-  console.log("lalala");
-};
+  console.log('lalala v2')
+}
